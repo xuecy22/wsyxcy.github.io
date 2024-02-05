@@ -96,10 +96,10 @@ span {
 }
 
 .icon {
-    width: 100px;
-    height: 100px;
+    width: 15px;
+    height: 15px;
     padding: 5px;
-    border: 2px solid #ffffff;
+    border: 2px solid #fff;
     border-radius: 100%;
     position: absolute;
     left: 49%;
